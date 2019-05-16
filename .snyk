@@ -5,37 +5,37 @@ ignore: {}
 patch:
   'npm:debug:20170905':
     - grunt-contrib-connect > connect > body-parser > debug:
-        patched: '2019-05-16T13:28:35.596Z'
+        patched: '2019-05-16T13:28:40.553Z'
     - grunt-contrib-connect > connect > connect-timeout > debug:
-        patched: '2019-05-16T13:28:35.596Z'
+        patched: '2019-05-16T13:28:40.553Z'
     - grunt-contrib-connect > connect > express-session > debug:
-        patched: '2019-05-16T13:28:35.596Z'
+        patched: '2019-05-16T13:28:40.553Z'
     - grunt-contrib-connect > connect > morgan > debug:
-        patched: '2019-05-16T13:28:35.596Z'
+        patched: '2019-05-16T13:28:40.553Z'
     - grunt-contrib-connect > connect > serve-index > debug:
-        patched: '2019-05-16T13:28:35.596Z'
+        patched: '2019-05-16T13:28:40.553Z'
     - grunt-contrib-connect > connect > serve-static > send > debug:
-        patched: '2019-05-16T13:28:35.596Z'
+        patched: '2019-05-16T13:28:40.553Z'
     - grunt-contrib-connect > connect > compression > debug:
-        patched: '2019-05-16T13:28:35.596Z'
+        patched: '2019-05-16T13:28:40.553Z'
   'npm:ms:20170412':
     - grunt-contrib-connect > connect > connect-timeout > ms:
-        patched: '2019-05-16T13:28:35.596Z'
+        patched: '2019-05-16T13:28:40.553Z'
     - grunt-contrib-connect > connect > serve-favicon > ms:
-        patched: '2019-05-16T13:28:35.596Z'
+        patched: '2019-05-16T13:28:40.553Z'
     - grunt-contrib-connect > connect > express-session > debug > ms:
-        patched: '2019-05-16T13:28:35.596Z'
+        patched: '2019-05-16T13:28:40.553Z'
     - grunt-contrib-connect > connect > compression > debug > ms:
-        patched: '2019-05-16T13:28:35.596Z'
+        patched: '2019-05-16T13:28:40.553Z'
     - grunt-contrib-connect > connect > serve-index > debug > ms:
-        patched: '2019-05-16T13:28:35.596Z'
+        patched: '2019-05-16T13:28:40.553Z'
     - grunt-contrib-connect > connect > body-parser > debug > ms:
-        patched: '2019-05-16T13:28:35.596Z'
+        patched: '2019-05-16T13:28:40.553Z'
     - grunt-contrib-connect > connect > connect-timeout > debug > ms:
-        patched: '2019-05-16T13:28:35.596Z'
+        patched: '2019-05-16T13:28:40.553Z'
     - grunt-contrib-connect > connect > serve-static > send > ms:
-        patched: '2019-05-16T13:28:35.596Z'
+        patched: '2019-05-16T13:28:40.553Z'
     - grunt-contrib-connect > connect > serve-static > send > debug > ms:
-        patched: '2019-05-16T13:28:35.596Z'
+        patched: '2019-05-16T13:28:40.553Z'
     - grunt-contrib-connect > connect > morgan > debug > ms:
-        patched: '2019-05-16T13:28:35.596Z'
+        patched: '2019-05-16T13:28:40.553Z'

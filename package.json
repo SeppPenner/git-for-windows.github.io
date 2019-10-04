@@ -29,7 +29,7 @@
     "grunt-contrib-connect": "~0.11.0",
     "grunt-contrib-cssmin": "~0.10.0",
     "grunt-contrib-uglify": "~0.11.1",
-    "snyk": "^1.189.0"
+    "snyk": "^1.231.0"
   },
   "engines": {
     "node": ">=0.8.0"
